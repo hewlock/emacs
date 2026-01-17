@@ -1,4 +1,18 @@
+;==============================
+; Keybinds
+;==============================
+
+(global-set-key (kbd "C-c h w") 'which-key-show-top-level)
+
+;==============================
+; Config
+;==============================
+
 (which-key-mode 1)
+
+(setq which-key-add-column-padding 1)
+(setq which-key-max-description-length 32)
+(setq which-key-separator " ")
 
 (which-key-add-key-based-replacements "C-c b" "buffer")
 (which-key-add-key-based-replacements "C-c c" "mode")
@@ -12,5 +26,3 @@
 (which-key-add-key-based-replacements "C-c q" "macro")
 (which-key-add-key-based-replacements "C-c r" "region")
 (which-key-add-key-based-replacements "C-c w" "window")
-
-(global-set-key (kbd "C-c h w") 'which-key-show-top-level)

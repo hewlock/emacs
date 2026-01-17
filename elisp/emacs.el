@@ -78,7 +78,6 @@
 
 (defun mrm/save-all-buffers (&rest args)
   "Save all buffers."
-  (interactive "p")
   (save-some-buffers t))
 
 ;==============================
