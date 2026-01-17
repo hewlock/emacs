@@ -1,0 +1,16 @@
+(which-key-mode 1)
+
+(which-key-add-key-based-replacements "C-c b" "buffer")
+(which-key-add-key-based-replacements "C-c c" "mode")
+(which-key-add-key-based-replacements "C-c d" "directory")
+(which-key-add-key-based-replacements "C-c e" "emacs")
+(which-key-add-key-based-replacements "C-c h" "help")
+(which-key-add-key-based-replacements "C-c i" "info")
+(which-key-add-key-based-replacements "C-c m" "bookmark")
+(which-key-add-key-based-replacements "C-c o" "org")
+(which-key-add-key-based-replacements "C-c p" "project")
+(which-key-add-key-based-replacements "C-c q" "macro")
+(which-key-add-key-based-replacements "C-c r" "region")
+(which-key-add-key-based-replacements "C-c w" "window")
+
+(global-set-key (kbd "C-c h w") 'which-key-show-top-level)
