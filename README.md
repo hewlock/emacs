@@ -1,2 +1,2 @@
-# emacs
-Emacs Dotfiles
+# Emacs
+Emacs dotfiles
