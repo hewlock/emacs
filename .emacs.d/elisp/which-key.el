@@ -12,7 +12,7 @@
   (which-key-add-key-based-replacements "C-c b" "buffer")
   (which-key-add-key-based-replacements "C-c c" "mode")
   (which-key-add-key-based-replacements "C-c d" "directory")
-  (which-key-add-key-based-replacements "C-c e" "web")
+  (which-key-add-key-based-replacements "C-c e" "emacs")
   (which-key-add-key-based-replacements "C-c h" "help")
   (which-key-add-key-based-replacements "C-c i" "info")
   (which-key-add-key-based-replacements "C-c m" "bookmark")

@@ -1,2 +1,4 @@
 .DS_Store
+.emacs.d/elpa
 auto-save-list
+network-security.data

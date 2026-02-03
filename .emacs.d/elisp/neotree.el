@@ -16,7 +16,7 @@
   (setq neo-smart-open nil)
   (setq neo-theme 'arrow)
   (setq neo-window-width 40)
-  (evil-set-initial-state 'neotree-mode 'motion)
+;;  (evil-set-initial-state 'neotree-mode 'motion)
   :config
   (defun mrm/neotree-enter-hide ()
     "Show Neotree focused on the current directory."
