@@ -1,3 +1,4 @@
-# Emacs
+# Emacs Dotfiles
 
-Emacs dotfiles
+cd ~
+ln -s ~/path/to/this/project/.emacs.d .emacs.d 
