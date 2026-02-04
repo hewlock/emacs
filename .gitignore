@@ -1,4 +1,5 @@
 .DS_Store
+.emacs.d/eln-cache/
 .emacs.d/elpa
 auto-save-list
 network-security.data

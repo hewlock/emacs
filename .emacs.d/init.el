@@ -36,7 +36,7 @@
 ;; (load-config "eww")
 (load-config "ivy")
 ;; (load-config "magit")
-;; (load-config "markdown-mode")
+(load-config "markdown-mode")
 (load-config "neotree")
 ;; (load-config "org-journal")
 ;; (load-config "org-publish")
