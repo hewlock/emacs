@@ -40,7 +40,7 @@
 (load-config "neotree")
 ;; (load-config "org-journal")
 ;; (load-config "org-publish")
-;; (load-config "rainbow-delimiters")
+(load-config "rainbow-delimiters")
 ;; (load-config "undo-fu")
 ;; (load-config "web-mode")
 (load-config "which-key")
