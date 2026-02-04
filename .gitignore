@@ -1,5 +1,6 @@
 .DS_Store
-.emacs.d/eln-cache/
+.emacs.d/bookmarks
+.emacs.d/eln-cache
 .emacs.d/elpa
 .emacs.d/projects
 auto-save-list

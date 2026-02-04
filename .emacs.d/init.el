@@ -28,7 +28,7 @@
 ;; (load-config "org")
 
 ;; sorted
-;; (load-config "bookmark")
+(load-config "bookmark")
 ;; (load-config "coffee-mode")
 ;; (load-config "company")
 ;; (load-config "dired")
