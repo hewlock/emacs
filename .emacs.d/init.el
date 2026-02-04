@@ -44,7 +44,7 @@
 ;; (load-config "undo-fu")
 ;; (load-config "web-mode")
 (load-config "which-key")
-;; (load-config "whitespace")
+(load-config "whitespace")
 ;; (load-config "yasnippet")
 
 ;; (setq custom-file (config-file "custom"))
@@ -57,7 +57,8 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(package-selected-packages '(counsel diminish evil ivy-hydra markdown-mode neotree)))
+ '(package-selected-packages
+   '(counsel diminish evil ivy-hydra markdown-mode neotree rainbow-delimiters)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
